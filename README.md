@@ -1,1 +1,1 @@
-# flying-fish-promo-test.
+Flying Fish V5 – uitsluitend interne test. Gebruik alleen fictieve gegevens. Start: python server.py. Render: Python, Free, Frankfurt, build: python --version, start: python server.py. SQLite is niet duurzaam op gratis Render; testregistraties kunnen verdwijnen bij herstart. Geen productiegebruik.
